@@ -1,5 +1,5 @@
 # ProjectEuler-Python
-My solutions to some Project Euler problems, written in mostly python (a handful in maple).
+My solutions to some Project Euler problems, written in mostly python (and a handful in maple).
 
 Many of these are quite old and thus quite ineffecient. 
 
